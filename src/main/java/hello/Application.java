@@ -11,5 +11,5 @@ public class Application {
     }
 }
 
-// http://localhost:8080/greeting
-// http://localhost:8080/greeting?name=Technocorp
+// TODO http://localhost:8080/greeting
+// TODO http://localhost:8080/greeting?name=Technocorp

@@ -18,7 +18,7 @@ plugins {
     id 'java-library'
 }
 
-group 'hello'
+group 'Hello-World'
 version '1.0-SNAPSHOT'
 sourceCompatibility = JavaVersion.VERSION_1_10
 targetCompatibility = JavaVersion.VERSION_1_10

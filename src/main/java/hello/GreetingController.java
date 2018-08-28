@@ -17,3 +17,5 @@ public class GreetingController {
                 String.format(template, name));
     }
 }
+
+// TODO Alterar path para um possível módulo Contract

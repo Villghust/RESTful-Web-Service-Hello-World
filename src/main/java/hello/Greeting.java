@@ -17,3 +17,5 @@ public class Greeting {
         return content;
     }
 }
+
+// TODO Usar Lombok @Getter @AllArgs..
